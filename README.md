@@ -35,6 +35,7 @@ brew install ffmpeg
 ```
 #### Linux:
 Install FFmpeg using the package manager for your distribution. For example, on Ubuntu, you would run:
+
 ```
 sudo apt-get update
 sudo apt-get install ffmpeg
